@@ -6,6 +6,6 @@
 
 ### Hey dear! Intresting? You womder to see my mini quiz project go to the link below👇
 
-- Try it: https://abdullo92.github.io/GitHub_User_Search_App-/
+- Try it:https://abdullo92.github.io/Quiz-Question/
 
 - I wish you like it😍
